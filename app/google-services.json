@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "640050732107",
+    "firebase_url": "https://minhas-habilidades.firebaseio.com",
+    "project_id": "minhas-habilidades",
+    "storage_bucket": "minhas-habilidades.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640050732107:android:67ed873f839488287441ce",
+        "android_client_info": {
+          "package_name": "com.ingeniarius.minhashabilidades"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "640050732107-eo8s782v90cl490h31rn643q6agsb6cj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCb-8AAyBeZdVJTlGEE13LIiB5UgEKbjmc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "640050732107-eo8s782v90cl490h31rn643q6agsb6cj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
